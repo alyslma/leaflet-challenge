@@ -1,5 +1,11 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
+## Screenshots of Finalized Map
+![Map Screenshot](screenshots/map_screenshot.png)
+
+Tooltip:
+![Marker Screenshot](screenshots/marker_screenshot.png)
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
